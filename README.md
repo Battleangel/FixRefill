@@ -1,2 +1,2 @@
 # FixRefill
-Remove oder Fixes. S###Coins from Bitrefill Page
+Remove or better Fixes, S###Coins from Bitrefill Page
